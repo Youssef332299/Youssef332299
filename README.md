@@ -11,9 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1Mh0ODcn1_jCBx82U0YAH1mnAGdwcEI66/view?usp=drive_link](https://drive.google.com/file/d/1Mh0ODcn1_jCBx82U0YAH1mnAGdwcEI66/view?usp=drive_link)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/authwall?trk=bf&trkInfo=AQGUk2uZKZq_oAAAAZJSQdS4GBChAV94RdW-fqu69M2oFKRvg9C11qL9m845ALAe_9zCGlCzSojexch0TG-5H3ZhG_L6YtAKgOgVnRa6K7iiO-HI1Sqq6sJQM-LiukZjm2W3ORU=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyoussef-ayman-20bb9a240](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQGUk2uZKZq_oAAAAZJSQdS4GBChAV94RdW-fqu69M2oFKRvg9C11qL9m845ALAe_9zCGlCzSojexch0TG-5H3ZhG_L6YtAKgOgVnRa6K7iiO-HI1Sqq6sJQM-LiukZjm2W3ORU=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyoussef-ayman-20bb9a240)
-
-- 💬 Flutter *Amit*
 
 - 📫 How to reach me *youssefayman329@gmail.com*
 
